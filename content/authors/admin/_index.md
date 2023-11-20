@@ -37,14 +37,36 @@ education:
       year: 05/2024
     - course: Master in Geographic Information Science
       institution: University of Minnesota
-      year: 05/2024 
+      year: 2024 
     - course: BEng in Geographic Information Science
       institution: Wuhan Univeristy, China
       year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-
+skill:
+  - name: Technical
+    items:
+      - name: R
+        description: ''
+        percent: 100
+        icon: R
+        icon_pack: fab
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 70
+        icon: database
+        icon_pack: fas
+      - name: ArcGIS
+        description: ''
+        percent: 100
+        icon: map
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,5 +92,5 @@ social:
 highlight_name: true
 ---
 
-Yaxuan (Sean Zhang) is a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. She is actively seeking jobs in the fields of data science, transportation planning, and geospatial intelligence. With over 5 years of experience, She specializes in GIS, urban transportation, geospatial analysis, machine learning, and statistical modeling. She is passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
+Yaxuan (Sean) Zhang is a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. She is actively seeking jobs in the fields of data science, transportation planning, and geospatial intelligence. With over 5 years of experience, She specializes in GIS, urban transportation, geospatial analysis, machine learning, and statistical modeling. She is passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
 {style="text-align: justify;"}
