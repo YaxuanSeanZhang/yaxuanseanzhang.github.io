@@ -35,7 +35,7 @@ education:
     - course: PhD in Geography (GIS)
       institution: University of Minnesota
       year: 05/2024
-    - course: Master in Geographic Information Science
+    - course: M.S. in Geographic Information Science
       institution: University of Minnesota
       year: 2024 
     - course: BEng in Geographic Information Science
@@ -47,26 +47,22 @@ education:
 skill:
   - name: Technical
     items:
-      - name: R
-        description: ''
-        percent: 100
-        icon: R
-        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
         icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 70
+        percent: 40
         icon: database
         icon_pack: fas
-      - name: ArcGIS
-        description: ''
-        percent: 100
-        icon: map
-        icon_pack: fas
+        
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
