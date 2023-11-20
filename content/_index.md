@@ -46,10 +46,22 @@ sections:
           date_end: '2023-08-25'
           description: |2-
               Responsibilities include:
-              * Led a data collection process, designing surveys and collecting georeferenced survey data from over 1000 users.
-              * Applied data mining and statistical models to study gender discrepancies in mobility patterns.
-              * Designed a new explainable AI algorithm to model health disparities related to mobility behaviors.
-              * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
+              * Designed a SQL pipeline to fetch, clean and process real-time traffic data into an interactive web map dashboard.
+              * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
+              * Conducted QAQC, EDA and visualization for transit data and delivered insights to internal stakeholders.
+        
+        - title: Geospatial Data Analyst
+          company: University of Minnesota
+          company_url: ''
+          company_logo: umn
+          location: Minneapolis, MN
+          date_start: '2020-06-01'
+          date_end: '2021-05-31'
+          description: |2-
+              Responsibilities include:
+              * Created an R pipeline for GPS travel survey, including data quality control, trend clustering, and visualization.
+              * Automated data quality checking of geo-boundary and microdata, achieving 100%+ efficiency improvement.
+ 
     design:
       columns: '2'
   - block: collection
