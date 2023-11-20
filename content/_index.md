@@ -37,14 +37,19 @@ sections:
               * Designed a new explainable AI algorithm to model health disparities related to mobility behaviors.
               * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Transportation Data Science Intern
+          company: Metropolitan Council
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Saint. Paul, MN
+          date_start: '2023-05-31'
+          date_end: '2023-08-25'
+          description: |2-
+              Responsibilities include:
+              * Led a data collection process, designing surveys and collecting georeferenced survey data from over 1000 users.
+              * Applied data mining and statistical models to study gender discrepancies in mobility patterns.
+              * Designed a new explainable AI algorithm to model health disparities related to mobility behaviors.
+              * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
     design:
       columns: '2'
   - block: collection
@@ -129,7 +134,8 @@ sections:
     id: contact
     content:
       title: Contact
-      texts: If you have job opportunities, collaborations, or insights to share, please don't hesitate to connect.
+       text: |-
+          If you have job opportunities, collaborations, or insights to share, please don't hesitate to connect.
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: zhan6322@umn.edu
