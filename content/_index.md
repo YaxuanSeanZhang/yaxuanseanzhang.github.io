@@ -23,19 +23,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Quantitative Geospatial Data Researcher
+          company: University of Minnesota
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: umn
+          location: Minneapolis, MN
+          date_start: '2021-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
+              * Led a data collection process, designing surveys and collecting georeferenced survey data from over 1000 users.
+              * Applied data mining and statistical models to study gender discrepancies in mobility patterns.
+              * Designed a new explainable AI algorithm to model health disparities related to mobility behaviors.
+              * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -128,6 +129,7 @@ sections:
     id: contact
     content:
       title: Contact
+      texts: If you have job opportunities, collaborations, or insights to share, please don't hesitate to connect.
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: zhan6322@umn.edu
