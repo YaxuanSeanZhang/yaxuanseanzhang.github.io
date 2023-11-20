@@ -47,22 +47,22 @@ education:
 skills:
   - name: Technical
     items:
+      - name: R
+        description: ''
+        percent: 100
+        icon: R
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
         icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Skillset
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
