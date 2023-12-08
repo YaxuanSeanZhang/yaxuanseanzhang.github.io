@@ -20,7 +20,7 @@ publishDate: '2022-04-09'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Conference paper']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Population Association of America*
