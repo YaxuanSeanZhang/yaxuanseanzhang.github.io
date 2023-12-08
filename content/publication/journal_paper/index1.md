@@ -21,7 +21,7 @@ publishDate: '2023-11-02'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Book-Chapter']
+publication_types: ['chapter']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Travel Behavior and Society* (Under Review)
