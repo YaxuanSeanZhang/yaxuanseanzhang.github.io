@@ -26,7 +26,7 @@ sections:
         - title: Quantitative Geospatial Data Researcher
           company: University of Minnesota
           company_url: ''
-          company_logo: umn
+          company_logo: org-x
           location: Minneapolis, MN
           date_start: '2021-06-01'
           date_end: ''
@@ -53,7 +53,7 @@ sections:
         - title: Geospatial Data Analyst
           company: University of Minnesota
           company_url: ''
-          company_logo: umn
+          company_logo: org-x
           location: Minneapolis, MN
           date_start: '2020-06-01'
           date_end: '2021-05-31'
