@@ -139,7 +139,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       columns: '2'
       view: compact
