@@ -42,45 +42,6 @@ education:
       institution: Wuhan Univeristy, China
       year: 2018
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: R
-        description: ''
-        percent: 100
-        icon: R
-        icon_pack: fab
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 70
-        icon: database
-        icon_pack: fas
-  - name: Skillset
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
         
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -107,5 +68,10 @@ social:
 highlight_name: true
 ---
 
-Yaxuan (Sean) Zhang is a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. She is actively seeking jobs in the fields of data science, transportation planning, and geospatial intelligence. With over 5 years of experience, She specializes in GIS, urban transportation, geospatial analysis, machine learning, and statistical modeling. She is passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
+Yaxuan (Sean) Zhang is a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. 
+
+She is actively seeking jobs in the fields of <b>data science</b>, <b>transportation planning</b>, and <b>geospatial intelligence</b>. She is passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
+
+<b>Specialties</b>: GIS, Urban Mobility, Statistical Modeling, Machine Learning, Analytics, R, Python, SQL
+
 {style="text-align: justify;"}

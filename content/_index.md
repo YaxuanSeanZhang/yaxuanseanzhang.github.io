@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Yaxuan Zhang'
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -65,9 +65,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: news
     content:
-      title: Recent Posts
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -75,7 +75,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - news
         author: ""
         category: ""
         tag: ""
