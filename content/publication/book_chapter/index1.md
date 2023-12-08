@@ -28,6 +28,8 @@ publication_types: ['article-journal']
 publication: In *Understanding Everyday Life* (In Print)
 publication_short: ''
 
+abstract: 
+
 tags: []
 
 # Display this page in the Featured widget?
