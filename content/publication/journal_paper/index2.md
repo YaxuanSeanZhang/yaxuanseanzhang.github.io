@@ -1,23 +1,25 @@
 ---
-title: 'Improving data quality of smartphone‐based activity–travel survey: A framework for data post‐processing'
+title: 'Personalizing the dichotomy of fixed and flexible activities in everyday life: deriving prism anchors from GPS-enabled survey data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Chunjiang Li
   - Ying Song
+  - Yanwei Chai
   - Yingling Fan
   
 
 # Author notes (optional)
 author_notes:
 
-date: '2021-11-02'
-doi: 'https://doi-org.ezp2.lib.umn.edu/10.1111/tgis.12865'
+date: '2022-12-19'
+doi: 'https://doi.org/10.1007/s11116-022-10352-2'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-11-02'
+publishDate: '2022-12-19'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +27,10 @@ publishDate: '2021-11-02'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Transactions in GIS*
+publication: In *Transportation*
 publication_short: ''
 
-abstract: The smartphone-based activity–travel survey has emerged as an approach to collect detailed data on individuals’ activities and trips throughout the day. The collected data are usually structured as a series of consecutive activity and trip episodes. Recent studies have used these data to advance our understanding of individuals’ activity–travel patterns. However, few studies have explicitly described how to handle new quality issues of such data. This article develops a framework and methods to systematically detect and handle quality issues in the smartphone-based activity–travel survey data to ensure attribute completeness and logical consistency. For attribute completeness, we check if each episode contains all the required thematic, temporal, and spatial attributes. For logical consistency, we check if two consecutive episodes are logically inconsistent regarding spatial and temporal continuity. We classify invalid episodes into distinct groups using mixture models, clustering, and a transition matrix. For each group, we propose specific improvement methods. To demonstrate our methods, we use data collected in the Twin Cities, Minnesota, USA, as a study case. The results show that our framework can systematically deal with various data quality issues. We also show how data before and after quality control may lead to different observations about individuals' behavior patterns.
+abstract: Space–time prism is a fundamental concept in time geography that can model an individual’s accessibility to resources under space–time constraints. A prism anchor is often defined by work, school, or home activity with a fixed location and schedule. Trips and other activities are relatively flexible and scheduled between prism anchors. This fixity-flexibility dichotomy may not capture the increasing complexity of human mobility behaviors or variations among individuals. Recent developments in location-aware technologies allow us to collect person-level mobility data with detailed space–time paths and contextual information. This article develops methods to extract prism anchors from these GPS-based survey data and examines whether home, work, and school activities can always be used to define prism anchors for everyone. To illustrate our methods, we use data collected in Minnesota and Beijing as two study cases. Results in both study cases suggest that not everyone has home, work, or school anchors, and people with the same socio-demographic background tend to have similar anchor types. By deriving home, work, and school anchors, we can better understand how a person’s everyday schedules are governed by home, work, and school and refine person-based accessibility measures.
 
 tags: []
 
@@ -40,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi-org.ezp2.lib.umn.edu/10.1111/tgis.12865'
+url_pdf: 'https://link.springer.com/article/10.1007/s11116-022-10352-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''

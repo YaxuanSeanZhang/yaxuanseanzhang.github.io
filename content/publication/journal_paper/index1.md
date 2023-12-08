@@ -1,25 +1,22 @@
 ---
-title: 'Personalizing the dichotomy of fixed and flexible activities in everyday life: deriving prism anchors from GPS-enabled survey data'
+title: 'Gender Differences in Travel and Everyday Life: a Data-Driven Approach to Address the Intersectional Nature of Gender as a Social Construct'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Chunjiang Li
   - Ying Song
-  - Yanwei Chai
-  - Yingling Fan
   
 
 # Author notes (optional)
 author_notes:
 
-date: '2022-12-19'
-doi: 'https://doi.org/10.1007/s11116-022-10352-2'
+date: ''
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-19'
+publishDate: '2023-11-02'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +24,10 @@ publishDate: '2022-12-19'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Transportation*
+publication: In *Travel Behavior and Society* (Under Review)
 publication_short: ''
 
-abstract: Space–time prism is a fundamental concept in time geography that can model an individual’s accessibility to resources under space–time constraints. A prism anchor is often defined by work, school, or home activity with a fixed location and schedule. Trips and other activities are relatively flexible and scheduled between prism anchors. This fixity-flexibility dichotomy may not capture the increasing complexity of human mobility behaviors or variations among individuals. Recent developments in location-aware technologies allow us to collect person-level mobility data with detailed space–time paths and contextual information. This article develops methods to extract prism anchors from these GPS-based survey data and examines whether home, work, and school activities can always be used to define prism anchors for everyone. To illustrate our methods, we use data collected in Minnesota and Beijing as two study cases. Results in both study cases suggest that not everyone has home, work, or school anchors, and people with the same socio-demographic background tend to have similar anchor types. By deriving home, work, and school anchors, we can better understand how a person’s everyday schedules are governed by home, work, and school and refine person-based accessibility measures.
+abstract: Gender differences in travel patterns have been extensively studied in transportation realm. Recent studies have started to adopt an intersectional lens to examine gender and travel, acknowledging that the convergence of gender and other social identities creates a person’s unique travel experiences. However, studies often focus on gender disparities in trip characteristics and fail to capture the interrelationships of activities and trips throughout the day. And to address intersectionality, existing studies often divide people into groups based on gender and 1 or 2 other characteristics and compare their travel behaviors. So, study findings are restricted by these predefined intersectional groups. Therefore, this study applies the sequence alignment method (SAM) to extract behavior patterns accounting for both trips and activities in daily schedules. Then, this study applies the CHAID (Chi-square automatic interaction detection) method to account for all person-level characteristics and their combined impacts on people’s travel patterns. Last, this study examines the intersectionality nature of gendered travel patterns using statistical tests. To demonstrate the methods and results, the study uses travel survey data collected in greater Minnesota as a study case. The analysis reveals gender differences in travel patterns, such as women starting to lose their after-work personal time after having kids. The CHAID analysis identifies key person-level characteristics that significantly shape travel behavior patterns such as employment status on weekdays and age on weekends. These findings suggests that our proposed methods can address the intersectionality nature of social identities and provide novel insights into gender differences in transportation needs.
 
 tags: []
 
@@ -42,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/article/10.1007/s11116-022-10352-2'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
