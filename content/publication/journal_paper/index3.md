@@ -14,7 +14,7 @@ authors:
 author_notes:
 
 date: '2021-11-02'
-doi: 'https://doi-org.ezp2.lib.umn.edu/10.1111/tgis.12865'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-02'
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi-org.ezp2.lib.umn.edu/10.1111/tgis.12865'
+url_pdf: 'https://doi.org/10.1111/tgis.12865'
 url_code: ''
 url_dataset: ''
 url_poster: ''

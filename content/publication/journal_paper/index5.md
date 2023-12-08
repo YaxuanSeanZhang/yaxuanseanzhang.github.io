@@ -16,7 +16,7 @@ authors:
 author_notes:
 
 date: '2023-06-01'
-doi: 'https://doi.org/10.1016/j.ssmph.2023.101397'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-06-01'
