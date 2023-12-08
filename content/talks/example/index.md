@@ -13,7 +13,6 @@ address:
   country: United States
 
 summary: Click to check my talks and presentations!
-abstract: '**Zhang, Y.** & Song, Y. (2023). The Intersectionality of Gender Differences in Travel Behaviors: a Daily Schedule Perspective. 2023 AAG Annual Meeting, Denver, CO, USA, Mar. 22nd - 27th \n **Zhang, Y.** & Song, Y. (2023). The Intersectionality of Gender Differences in Travel Behaviors: a Daily Schedule Perspective. Transportation Research Board (TRB) Annual Meeting 2023, Washington D.C., Jan. 8th - Jan. 12th'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,11 +30,16 @@ tags: []
 featured: false
 
 
+
 links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+---
 
 
+
+Ordered by time:
+**Zhang, Y.** & Song, Y. (2023). The Intersectionality of Gender Differences in Travel Behaviors: a Daily Schedule Perspective. 2023 AAG Annual Meeting, Denver, CO, USA, Mar. 22nd - 27th
 
