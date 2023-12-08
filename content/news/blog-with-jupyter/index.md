@@ -1,34 +1,13 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Congratulate Yaxuan nominated as Emerging Scholar by TRB Committee (AME20)!
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: Yaxuan Zhang has been nominated as Emerging Scholar. Click to read her interview.
 ---
 
+AME20 celebrates the contributions of the next generation of researchers of gender issues in transportation. 
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+AME20 profiles an emerging researcher who has demonstrated interest and commitment to broadening awareness of gender issues in all aspects of transportation. 
 
-    
-![png](output_1_0.png)
-    
+Yaxuan Zhang has been nominated as one of the Emerging Scholars. To delve into Yaxuan's journey and contributions, click [here](https://womenandgender.wixsite.com/ame20/yaxuan)
 
-```python
-print("Welcome to Academic!")
-```
 
-    Welcome to Academic!
-
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
-
-## Import the notebooks into your site
-
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/news/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/news/` folder.
