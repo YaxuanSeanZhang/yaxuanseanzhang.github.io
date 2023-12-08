@@ -7,7 +7,7 @@ event_url:
 location: 
 address:
 
-summary: Click to check my talks and presentations!
+summary: Click to check Yaxuan's talks and presentations!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
