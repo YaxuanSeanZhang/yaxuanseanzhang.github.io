@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Yaxuan Zhang'
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -32,10 +32,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Led a data collection process, designing surveys and collecting georeferenced survey data from over 1000 users.
-              * Applied data mining and statistical models to study gender discrepancies in mobility patterns.
-              * Designed a new explainable AI algorithm to model health disparities related to mobility behaviors.
-              * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
+              * Led a data collection process from over 1000 users.
+              * Applied data mining and statistical models to study gender mobility discrepancies.
+              * Designed a new explainable AI algorithm to model health disparities in mobility.
+              * Delivered a recommendation report to stakeholders (MnDOT) for policy-making decisions.
 
         - title: Transportation Data Science Intern
           company: Metropolitan Council
@@ -46,9 +46,9 @@ sections:
           date_end: '2023-08-25'
           description: |2-
               Responsibilities include:
-              * Designed a SQL pipeline to fetch, clean and process real-time traffic data into an interactive web map dashboard.
+              * Designed a SQL pipeline to fetch and process real-time traffic data into an interactive web map dashboard.
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
-              * Conducted QAQC, EDA and visualization for transit data and delivered insights to internal stakeholders.
+              * Conducted QAQC and visualization for transit data and delivered insights to stakeholders.
         
         - title: Geospatial Data Analyst
           company: University of Minnesota
@@ -59,8 +59,8 @@ sections:
           date_end: '2021-05-31'
           description: |2-
               Responsibilities include:
-              * Created an R pipeline for GPS travel survey, including data quality control, trend clustering, and visualization.
-              * Automated data quality checking of geo-boundary and microdata, achieving 100%+ efficiency improvement.
+              * Created an R pipeline for GPS travel data quality control and trend pattern analysis.
+              * Automated data quality checking of geo-data, achieving 100%+ efficiency improvement.
  
     design:
       columns: '2'
