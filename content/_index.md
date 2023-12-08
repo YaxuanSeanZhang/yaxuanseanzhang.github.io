@@ -35,7 +35,7 @@ sections:
               * Led a data collection process from over 1000 users.
               * Applied data mining and statistical models to study gender mobility discrepancies.
               * Designed a new explainable AI algorithm to model health disparities in mobility.
-              * Delivered a recommendation report to stakeholders (MnDOT) for policy-making decisions.
+              * Delivered a recommendation to stakeholder (MnDOT) for policy-making decisions.
 
         - title: Transportation Data Science Intern
           company: Metropolitan Council
@@ -48,7 +48,7 @@ sections:
               Responsibilities include:
               * Designed a SQL pipeline to fetch and process real-time traffic data into an interactive web map dashboard.
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
-              * Conducted QAQC and visualization for transit data and delivered insights to stakeholders.
+              * Conducted transit data QAQC and visualization and delivered insights to stakeholders.
         
         - title: Geospatial Data Analyst
           company: University of Minnesota
@@ -119,6 +119,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
