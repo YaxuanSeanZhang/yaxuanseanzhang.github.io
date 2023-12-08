@@ -146,7 +146,7 @@ sections:
     id: contact
     content:
       title: Contact
-       text: |-
+      text: |-
           If you have job opportunities, collaborations, or insights to share, please don't hesitate to connect.
       subtitle:
       # Contact (add or remove contact options as necessary)
