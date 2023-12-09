@@ -128,7 +128,7 @@ sections:
         exclude_featured: true
       text: |-
         {{% callout note %}}
-        [Check more published papers](./publication/).
+        [Check more Yaxuan's published papers](./publication/).
         {{% /callout %}}
     design:
       columns: '2'
