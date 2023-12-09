@@ -122,14 +122,14 @@ sections:
     id: publication
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Check more published paper by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
+      text: |-
+        {{% callout note %}}
+        [Check more published papers](./publication/).
+        {{% /callout %}}
     design:
       columns: '2'
       view: citation
