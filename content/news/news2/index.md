@@ -1,7 +1,7 @@
 ---
-title: Yaxuan Has Successfully Defended Her Ph.D. Dissertation Proposal
-date: '2023-10-18'
-summary: A big milestone of her Ph.D. journey!
+title: Yaxuan Zhang Awarded the TGSG Student Travel Award
+date: 2023-03-24
+summary: Yaxuan Zhang has been awarded the Transportation Geography Specialty Group Student Travel Award.
 ---
 
-Having successfully completed her Ph.D. preliminary exam in 2022, Yaxuan recently defended her dissertation proposal in October 2023.
+This year's TGSG Student Travel Award has been awarded to Yaxuan Zhang. Check detail [here](http://aag-tgsg.org/past.html)
