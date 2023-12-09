@@ -1,5 +1,5 @@
 ---
-title: Yaxuan has passed her Ph.D. proposal defense
+title: Yaxuan Has Successfully Defended Her Ph.D. Dissertation Proposal
 date: '2023-10-18'
 summary: A big milestone of her Ph.D. journey!
 ---
