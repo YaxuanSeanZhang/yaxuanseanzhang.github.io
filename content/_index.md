@@ -118,9 +118,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: Card
+      view: card
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      #flip_alt_rows: true
   - block: collection
     id: publication
     content:
