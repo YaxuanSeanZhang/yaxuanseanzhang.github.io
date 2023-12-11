@@ -107,8 +107,8 @@ sections:
           tag: '*'
         - name: Mobility
           tag: Mobility
-        - name: Machine Learning 
-          tag: Machine Learning 
+        - name: ML & Statistics 
+          tag: ML & Statistics
         - name: Data Pipeline
           tag: Data Pipeline
         - name: Research
