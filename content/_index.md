@@ -31,7 +31,6 @@ sections:
           date_start: '2021-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
               * Led a data collection process from over 1000 users.
               * Applied data mining and statistical models to study gender mobility discrepancies.
               * Designed a new explainable AI algorithm to model health disparities in mobility.
@@ -45,7 +44,6 @@ sections:
           date_start: '2023-05-31'
           date_end: '2023-08-25'
           description: |2-
-              Responsibilities include:
               * Designed a SQL pipeline to fetch and process real-time traffic data into an interactive web map dashboard.
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
               * Conducted transit data QAQC and visualization and delivered insights to stakeholders.
@@ -58,7 +56,6 @@ sections:
           date_start: '2020-06-01'
           date_end: '2021-05-31'
           description: |2-
-              Responsibilities include:
               * Created an R pipeline for GPS travel data quality control and trend pattern analysis.
               * Automated data quality checking of geo-data, achieving 100%+ efficiency improvement.
  
@@ -123,7 +120,7 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: collection
     id: publication
     content:
