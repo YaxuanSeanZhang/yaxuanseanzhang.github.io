@@ -1,5 +1,5 @@
 ---
-title: Yaxuan Zhang Awarded the TGSG Student Travel Award
+title: Yaxuan Awarded the TGSG Student Travel Award
 date: 2023-03-24
 summary: Yaxuan Zhang has been awarded the Transportation Geography Specialty Group Student Travel Award.
 ---
