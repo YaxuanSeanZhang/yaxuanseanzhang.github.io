@@ -3,7 +3,7 @@ title: Gender Discrepancies in Mobility Patterns
 summary: An example of using the in-built project page.
 tags:
   - Mobility
-  - ML & Stats
+  - ML Stats
   - Research
 date: '2016-04-27T00:00:00Z'
 
