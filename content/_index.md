@@ -90,6 +90,7 @@ sections:
       columns: '2'
   - block: portfolio
     id: projects
+    weight: 65
     content:
       title: Projects
       page_type: project
