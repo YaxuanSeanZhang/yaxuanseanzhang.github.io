@@ -108,13 +108,19 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Mobility
+          tag: Mobility
+        - name: Machine Learning 
+          tag: Machine Learning 
+        - name: Data Pipeline
+          tag: Data Pipeline
+        - name: Research
+          tag: Research
+        - name: Demographics
+          tag: Demographics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
