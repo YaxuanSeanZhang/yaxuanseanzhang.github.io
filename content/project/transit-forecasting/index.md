@@ -1,6 +1,6 @@
 ---
 title: Traffic Data Pulling and Forecasting
-summary: An example of using the in-built project page.
+summary: Real-time traffic data pulling and modeling for trend comparision before and after Covid. 
 tags:
   - Mobility
   - Data Pipeline
