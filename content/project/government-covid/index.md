@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: Government trust and Covid Precaution
 summary: An example of using the in-built project page.
 tags:
-  - Machine Learning
+  - Demographics
   - Research
 date: '2016-04-27T00:00:00Z'
 

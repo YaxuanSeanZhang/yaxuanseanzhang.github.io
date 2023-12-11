@@ -1,9 +1,9 @@
 ---
-title: Transit Data Trend Visualization
+title: Women's Reproductive Autonomy in Burkina Faso
 summary: An example of using the in-built project page.
 tags:
-  - Mobility
-  - Data Pipeline
+  - Demographics
+  - Research
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
