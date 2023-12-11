@@ -90,10 +90,8 @@ sections:
       columns: '2'
   - block: portfolio
     id: projects
-    weight: 65
     content:
       title: Projects
-      page_type: project
       filters:
         folders:
           - project
@@ -119,8 +117,8 @@ sections:
           tag: Demographics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '4'
-      view: card
+      columns: '2'
+      view: masonry
       # For Showcase view, flip alternate rows?
       #flip_alt_rows: false
   - block: collection
