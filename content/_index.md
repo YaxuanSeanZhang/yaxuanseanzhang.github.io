@@ -26,7 +26,7 @@ sections:
         - title: Quantitative Geospatial Data Researcher
           company: University of Minnesota
           company_url: ''
-          company_logo: org-x
+          company_logo: UMN
           location: Minneapolis, MN
           date_start: '2021-06-01'
           date_end: ''
@@ -39,7 +39,7 @@ sections:
         - title: Transportation Data Science Intern
           company: Metropolitan Council
           company_url: ''
-          company_logo: org-x
+          company_logo: MC
           location: Saint. Paul, MN
           date_start: '2023-05-31'
           date_end: '2023-08-25'
@@ -51,7 +51,7 @@ sections:
         - title: Geospatial Data Analyst
           company: University of Minnesota
           company_url: ''
-          company_logo: org-x
+          company_logo: UMN
           location: Minneapolis, MN
           date_start: '2020-06-01'
           date_end: '2021-05-31'
