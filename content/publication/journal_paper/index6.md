@@ -28,7 +28,7 @@ publishDate: '2018-05-15'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *SSM - Population Health*
+publication: In *International Journal of Remote Sensing*
 publication_short: ''
 
 abstract: This paper presents an optimal seamline detection method for orthoimage mosaicking. To ensure that the detected optimal seamlines avoid crossing many obvious objects, we first design a simple but effective criterion in the gradient domain in lieu of the traditionally used intensity domain to measure the visibility of the seam. Thereafter, we fuse this new criterion into the graph cuts energy minimisation framework to globally find the last optimal seamlines. Instead of finding the optimal solutions of seamlines in overlap regions via graph cuts among the entire set of pixels, we first find them among superpixels created from input images and then refine them in the pixel level, which greatly improves the efficiency of the global graph cuts energy optimisation because the number of elements in graph cuts dramatically decreases. Experimental results on orthoimages show that our proposed method is capable of finding high-quality seamlines for orthoimage mosaicking, and outperforms state-of-the-art algorithms and software.
