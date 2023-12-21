@@ -13,14 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
 ---
 
 
@@ -30,17 +23,15 @@ The prediction includes variable selection and model classification. The Bayesia
 
 Three combinations of variable selection and models were compared:
 
-
-![Bayesian Lasso + Bayesian Logistic Regression:](lasso.JPG)
-### SSVS + Bayesian Logistic Regression:
+#### SSVS + Bayesian Logistic Regression:
 * Selected predictors: texture, smoothness, compactness, symmetry, fractal dimension.
 * Test error rate: 0.091.
 
-### Bayesian Lasso + Bayesian Logistic Regression:
+#### Bayesian Lasso + Bayesian Logistic Regression:
 * Selected predictors: radius, texture, area, smoothness, concave points.
 * Test error rate: 0.056.
 
-### PCA + Frequentist Logistic Regression:
+#### PCA + Frequentist Logistic Regression:
 * Selected predictors: concave points, fractal dimension, texture.
 * Test error rate: 0.070.
 
