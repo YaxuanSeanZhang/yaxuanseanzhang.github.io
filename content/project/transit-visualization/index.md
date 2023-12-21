@@ -9,8 +9,6 @@ date: '2023-08-26'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-relPermalinkOverride = 'uploads/TBI-Presentation.html'
-
 image:
   caption:
   focal_point: Smart
