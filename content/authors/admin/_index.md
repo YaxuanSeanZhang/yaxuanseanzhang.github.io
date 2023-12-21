@@ -68,9 +68,9 @@ social:
 highlight_name: true
 ---
 
-Yaxuan (Sean) Zhang is a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. 
+I am a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, set to graduate in May 2024. 
 
-She is actively seeking jobs in the fields of <b>data science</b>, <b>transportation planning</b>, and <b>geospatial intelligence</b>. She is passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
+I am actively seeking jobs in the fields of <b>data science</b>, <b>transportation planning</b>, and <b>geospatial intelligence</b>. I am passionate about leveraging cutting-edge data and technology to deliver innovative solutions and data-driven decision-making. 
 
 <b>Specialties</b>: GIS, Urban Mobility, Statistical Modeling, Machine Learning, Analytics, R, Python, SQL
 
