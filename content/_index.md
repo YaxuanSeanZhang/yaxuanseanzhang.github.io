@@ -57,7 +57,7 @@ sections:
           date_end: '2021-05-31'
           description: |2-
               * Created an R pipeline for GPS travel data quality control and trend pattern analysis.
-              * Automated data quality checking of geo-data, achieving 100%+ efficiency improvement.
+              * Automated data quality checking of geo-data, with 100%+ efficiency improvement.
  
     design:
       columns: '2'
