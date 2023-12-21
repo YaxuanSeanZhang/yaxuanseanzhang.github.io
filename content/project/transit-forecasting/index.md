@@ -27,6 +27,6 @@ The pipeline operates on a nightly basis, facilitating the **aggregation** and *
 To estimate traffic that is robust to temporal fluctuations, the model relies on generalized additive models (GAM).The traffic trend GAMs consider three trends. 1) Travel typically increases in summer and decreases in winter annually. 2) Weekly, Friday sees the highest travel, while Sunday experiences the lowest. 3) Hourly models analyze traffic variations every 24 hours.
 
 
-![To estimate traffic that is robust to temporal fluctuations, the model relies on generalized additive models (GAM).The traffic trend GAMs consider three trends. 1) Travel typically increases in summer and decreases in winter annually. 2) Weekly, Friday sees the highest travel, while Sunday experiences the lowest. 3) Hourly models analyze traffic variations every 24 hours.](scale-plot.JPG)  
+![The traffic trend GAMs consider three trends.](scale-plot.JPG)  
 
 The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/Traffic-Data-Pipeline).
