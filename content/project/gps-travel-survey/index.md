@@ -1,15 +1,15 @@
 ---
 title: GPS Travel Survey Data Analytics
-summary: An example of linking directly to an external project website using `external_link`.
+summary: A data pipeline to process, analyze, and visualize GPS Travel Survey Data 
 tags:
   - Mobility
   - Data Pipeline
-date: "2016-04-27T00:00:00Z"
+date: "2023-05-27"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/Daynamica-Repositories
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 ---
