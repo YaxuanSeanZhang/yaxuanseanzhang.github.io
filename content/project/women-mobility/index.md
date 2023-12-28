@@ -10,7 +10,7 @@ date: '2022-04-27'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -24,6 +24,6 @@ I hypothesized mobility facilitates access to healthcare, jobs, markets, and soc
 
 In rural areas, living near major roads and intersections correlated with greater odds of agreeing they have reproductive decision-making power. For example, each 1 km farther from an intersection meant 24% lower odds of reporting they can decide when to have sex. Adjusting for demographics like education and wealth, mobility remained significantly associated. Urban women already live closer to roads, so mobility showed little additional benefit. Improved measures incorporating lower-level streets could help detect urban effects. 
 
-Overall, though, findings suggest that in remote areas, mobility-enabling infrastructure like roads can promote women’s empowerment. As Burkina Faso continues expanding infrastructure, facilitating transport for remote women can have far-reaching impacts on gender equity, health, and development.
+Overall, though, findings suggest that in remote areas, mobility-enabling infrastructure like roads can promote women’s empowerment. As Burkina Faso continues expanding infrastructure, facilitating transport for remote women can have far-reaching impacts on gender equity and health.
 
 Click to access the [full-text article](https://paa.confex.com/paa/2022/meetingapp.cgi/Paper/26691)
