@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-
+url_pdf: 'https://paa.confex.com/paa/2022/meetingapp.cgi/Paper/26691'
 ---
 I recently conducted research examining associations between women's mobility and their autonomy in making reproductive decisions in Burkina Faso.
 
