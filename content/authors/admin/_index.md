@@ -57,7 +57,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yaxuan-zhang/
-  - icon: google-scholar
+  - icon: graduation-cap
     icon_pack: fab
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Lyir6-cAAAAJ
   # Link to a PDF of your resume/CV.
