@@ -4,7 +4,7 @@ summary: An example of using the in-built project page.
 tags:
   - Mobility
   - ML Stats
-date: '2023-12-16'
+date: '2023-08-16'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
