@@ -28,7 +28,7 @@ The models incorporated zone characteristics like population, employment, and ho
 
 The spatial terms followed a Conditional Autoregressive (CAR) prior to share information across neighbors. The temporal terms also used a CAR prior to smooth over time.
 
-![work flow diagram](Blank diagram.jpg)
+![work flow diagram](Blank diagram.jpeg)
 
 I pulled raw pickup data from Kaggle and spatial boundary and zone characteristic data from NHGIS. After data cleaning and processing, exploratory analysis revealed clear temporal peaks and spatial concentrations of pickups near the NYC core.
 
