@@ -57,6 +57,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yaxuan-zhang/
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Lyir6-cAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
