@@ -1,6 +1,6 @@
 ---
 title: Data-driven GPS Travel Survey Data Quality Control
-summary: An example of using the in-built project page.
+summary: A data-driven post-processing framework to enhance the data quality of smartphone-based travel survey data
 tags:
   - Mobility
   - ML Stats
