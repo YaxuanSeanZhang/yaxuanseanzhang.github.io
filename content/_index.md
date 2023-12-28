@@ -87,7 +87,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -134,7 +134,7 @@ sections:
         [Check more Yaxuan's published papers](./publication/).
         {{% /callout %}}
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     id: talks
@@ -144,7 +144,7 @@ sections:
         folders:
           - talks
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   - block: contact
     id: contact
@@ -167,5 +167,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '1'
+      columns: '2'
 ---
