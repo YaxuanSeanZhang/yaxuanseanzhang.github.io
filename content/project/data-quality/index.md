@@ -19,6 +19,8 @@ url_pdf: 'https://doi.org/10.1111/tgis.12865'
   
 ---
 
-This projects designs a data-driven post-processing pipeline aimed at enhancing the data quality of smartphone-based activity–travel survey data.
+This projects designs a data-driven post-processing pipeline aimed at enhancing the data quality of smartphone-based activity–travel survey data. The framework adopts a series of methods to systematically identify and address data quality issues, ensuring attribute completeness and logical consistency.
 
-The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/GPS-Travel-Survey-Quality-Postprocessing).
+The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/GPS-Data-Quality).
+
+Click to access the [full-text article](https://doi.org/10.1111/tgis.12865)
