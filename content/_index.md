@@ -60,7 +60,7 @@ sections:
               * Automated data quality checking of geo-data, with 100%+ efficiency improvement.
  
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: news
     content:
@@ -87,7 +87,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
