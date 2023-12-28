@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-
+url_pdf: 'https://doi.org/10.1111/tgis.12865'
   
 ---
 
