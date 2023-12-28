@@ -1,6 +1,6 @@
 ---
 title: Government trust and Covid Precaution
-summary: An example of using the in-built project page.
+summary: Exploring links between trust and COVID precautions in Africa
 tags:
   - Demographics
   - Research
