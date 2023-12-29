@@ -24,9 +24,9 @@ We used a device-level mobile positioning dataset from PlaceIQ to create a groun
 
 Our model architecture follows previous work, with multiple parallel neural network structures. For each origin-destination pair, we input place characteristics (e.g. land use, points of interest) and weather conditions. The output is a score representing the likelihood of a trip occurring.
 
-We compare this deep learning approach to a gravity model, a standard method that decreases predicted flows with distance and increases them with population size.
-
 ![diagram](diagram.jpg)
+
+We compare this deep learning approach to a gravity model, a standard method that decreases predicted flows with distance and increases them with population size.
 
 The deep learning model outperformed gravity on Common Part of Commuters (CPC) and Pearson correlation coefficient(<i>r</i>). Incorporating weather data further improved the neural network's performance. This shows both urban features and environmental factors influence human movement.
 
