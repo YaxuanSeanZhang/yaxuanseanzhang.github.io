@@ -1,6 +1,6 @@
 ---
 title: SpatioTemporal Mobility Pattern Analytics
-summary: An example of using the in-built project page.
+summary: Examining Home and Work Anchors in Daily Life Using GPS Data
 tags:
   - Mobility
   - ML Stats
@@ -11,19 +11,39 @@ date: '2023-10-16'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
 
+links:
+url_pdf: 'https://link.springer.com/article/10.1007/s11116-022-10352-2'
+
 ---
+New research I conducted examines whether home and work activities can serve as “anchors” that structure people’s daily schedules. Using GPS-enabled survey data collected in Minnesota and Beijing, I developed methods to extract personalized home and work anchors for each person based on the spatial and temporal fixity of these activities across multiple days.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The framework is illustrated as the figure below:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+![framework](framework.jpg)
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+The methods involve:
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+* Analyzing GPS trajectory shapes to identify stationary vs non-stationary activities
+* Grouping stationary activity locations using clustering algorithms
+* Calculating the repetitive ratio of activities across days
+* Detecting repetitive intervals of activities at each location
+* Together, these steps determine if an activity repetitively occurs at fixed location(s) and can serve as an anchor.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The key findings suggest that:
+
+* Not everyone has clear home or work anchors. About 10% of people perform home activities outside their reported neighborhood.
+* People with similar demographics tend to have similar anchor patterns. For example, full-time employees are most likely to have work anchors.
+* Some people have multiple home or work anchors, challenging the assumption that everyone has a single, fixed home and workplace.
+
+Accounting for personalized anchors better captures the complexity of daily mobility patterns. I illustrated how using multiple home and work anchors expands the measured person-based accessibility space.
+
+![accessibility](accessibility.jpg)
+
+The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/Spatial-Temporal-Prism).
+
+Click to access the [full-text article](https://link.springer.com/article/10.1007/s11116-022-10352-2)
