@@ -20,11 +20,11 @@ New research reveals how gender intersects with other identities to shape distin
 
 Specifically, the researchers used sequence alignment analysis to identify groups following similar activity and trip sequences within their daily schedules. Costs were defined to capture gendered factors like household-supporting trips and safety concerns.
 
-![sam](sam.jpeg)
+![sam](sam.jpg)
 
 Further, a CHAID machine learning algorithm was used to detect which combinations of person-level characteristics are associated with each travel pattern group. This avoids predefining intersectional groups and lets impactful intersections emerge from the data.
 
-![chaid](chaid.jpeg)
+![chaid](chaid.jpg)
 
 The analysis found that employment status, household type, age, and student status all intersect with gender to impact travel behaviors differently on weekdays versus weekends. Some key gender differences found include:
 
