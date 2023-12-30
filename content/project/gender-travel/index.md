@@ -1,6 +1,6 @@
 ---
 title: Gender Discrepancies in Mobility Patterns
-summary: Gender Differences in Travel Behaviors: An Intersectional Perspective
+summary: An Intersectional Perspective of Gender Differences in Travel Behaviors 
 tags:
   - Mobility
   - ML Stats
