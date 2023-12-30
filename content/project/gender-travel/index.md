@@ -34,4 +34,4 @@ The analysis found that employment status, household type, age, and student stat
 
 This intersectional perspective and innovative analytical approach can inform policy to promote gender equity and meet the needs of diverse populations in transportation planning.
 
-The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/Spatial-Temporal-Prism).
+The codes and detailed documents can be retrieved via my [GitHub Repo](https://github.com/YaxuanSeanZhang/Travel-Gender-Pattern).
