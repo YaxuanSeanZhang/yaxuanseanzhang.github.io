@@ -28,7 +28,7 @@ sections:
           company_url: ''
           company_logo: UMN
           location: Minneapolis, MN
-          date_start: '2021-06-01'
+          date_start: '2022-06-01'
           date_end: ''
           description: |2-
               * Led a data collection process from over 1000 users.
@@ -54,13 +54,14 @@ sections:
           company_logo: UMN
           location: Minneapolis, MN
           date_start: '2020-06-01'
-          date_end: '2021-05-31'
+          date_end: '2022-05-31'
           description: |2-
-              * Created an R pipeline for GPS travel data quality control and trend pattern analysis.
-              * Automated data quality checking of geo-data, with 100%+ efficiency improvement.
+              * Proposed a data-driven framework to address spatial-temporal quality issues in GPS mobility data.
+              * Adopted ML and trajectory analysis to identify human travel behaviors and measure person-based accessibility space.
+              * Created an R pipeline for GPS travel surveys, including data cleaning, mobility pattern analysis, and visualization.
  
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: news
     content:
