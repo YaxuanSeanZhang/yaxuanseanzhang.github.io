@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Quantitative Geospatial Data Researcher
+        - title: Quantitative Data Researcher
           company: University of Minnesota
           company_url: ''
           company_logo: UMN
@@ -48,7 +48,7 @@ sections:
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
               * Conducted transit data QAQC and visualization and delivered insights to stakeholders.
         
-        - title: Geospatial Data Analyst
+        - title: Mobility Data Analyst
           company: University of Minnesota
           company_url: ''
           company_logo: UMN
