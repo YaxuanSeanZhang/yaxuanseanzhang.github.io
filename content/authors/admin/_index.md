@@ -71,9 +71,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota. 
-
-With over 5 years of quantitative experience and multi-disciplinary collaborations, I am passionate about applying analytics techniques to deliver data-driven transportation decision-making solutions.
+I am a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota. With over 5 years of quantitative experience and multi-disciplinary collaborations, I am passionate about applying analytics techniques to deliver data-driven transportation decision-making solutions.
 
 <b>Specialties</b>: Transportation Analysis & Planning, GIS, Statistical Modeling, Machine Learning, Analytics, R, Python, SQL
 
