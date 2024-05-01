@@ -15,6 +15,7 @@ image:
   focal_point: Smart
 
 links:
+url_pdf: 'https://doi.org/10.1016/j.tbs.2024.100797'
 ---
 New research reveals how gender intersects with other identities to shape distinct travel patterns and needs.
 

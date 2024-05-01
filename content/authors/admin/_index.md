@@ -25,9 +25,9 @@ bio: My research interests include geospatial data science, transportation plann
 
 # Interests to show in About widget
 interests:
-  - Traffic Analysis & Planning
-  - Data Science
-  - GeoAI & Statistics & ML
+  - Transportation Analysis & Planning
+  - Geospatial Data Science
+  - Statistics & ML
 
 # Education to show in About widget
 education:
@@ -71,10 +71,10 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota, will graduate in May 2024. 
+I am a Ph.D. candidate and MGIS student (Computer Science minor) at the University of Minnesota. 
 
-I am actively seeking jobs in the fields of <b>data science</b>, <b>transportation</b>, and <b>geospatial intelligence</b>. As a self-driven person with over 5 years of quantitative experience and multi-disciplinary collaborations, I am passionate about applying analytics techniques to deliver data-driven decision-making solutions. 
+With over 5 years of quantitative experience and multi-disciplinary collaborations, I am passionate about applying analytics techniques to deliver data-driven transportation decision-making solutions.
 
-<b>Specialties</b>: Traffic Analysis & Planning, GIS, Statistical Modeling, Machine Learning, Analytics, R, Python, SQL
+<b>Specialties</b>: Transportation Analysis & Planning, GIS, Statistical Modeling, Machine Learning, Analytics, R, Python, SQL
 
 {style="text-align: justify;"}

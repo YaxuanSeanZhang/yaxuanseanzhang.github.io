@@ -16,7 +16,7 @@ date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-11-02'
+publishDate: '2024-04-09'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,10 +24,10 @@ publishDate: '2023-11-02'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Travel Behavior and Society* (Under Review)
+publication: In *Travel Behavior and Society*
 publication_short: ''
 
-abstract: Gender differences in travel patterns have been extensively studied in transportation realm. Recent studies have started to adopt an intersectional lens to examine gender and travel, acknowledging that the convergence of gender and other social identities creates a person’s unique travel experiences. However, studies often focus on gender disparities in trip characteristics and fail to capture the interrelationships of activities and trips throughout the day. And to address intersectionality, existing studies often divide people into groups based on gender and 1 or 2 other characteristics and compare their travel behaviors. So, study findings are restricted by these predefined intersectional groups. Therefore, this study applies the sequence alignment method (SAM) to extract behavior patterns accounting for both trips and activities in daily schedules. Then, this study applies the CHAID (Chi-square automatic interaction detection) method to account for all person-level characteristics and their combined impacts on people’s travel patterns. Last, this study examines the intersectionality nature of gendered travel patterns using statistical tests. To demonstrate the methods and results, the study uses travel survey data collected in greater Minnesota as a study case. The analysis reveals gender differences in travel patterns, such as women starting to lose their after-work personal time after having kids. The CHAID analysis identifies key person-level characteristics that significantly shape travel behavior patterns such as employment status on weekdays and age on weekends. These findings suggests that our proposed methods can address the intersectionality nature of social identities and provide novel insights into gender differences in transportation needs.
+abstract: Gender differences in travel patterns have been extensively studied in the transportation realm. Recent studies have started to adopt an intersectional lens to acknowledge that the convergence of gender and other social identities can create unique travel needs and experiences. However, studies often focus on gender differences in trip characteristics instead of putting trips in the context of daily schedules. Further, existing studies often select one to two socio-demographic characteristics along with gender to define intersectional groups and compare trip characteristics of these groups. So, findings from these studies are largely influenced by the pre-selected socio-demographic characteristics and may neglect some key characteristics that significantly affect behaviors in a given region during specific periods. To address these gaps, this study first applies the sequence alignment method (SAM) to detect behavior patterns that can account for both trips and activities in daily schedules. Then, the study applies the Chi-square automatic interaction detection (CHAID) to identify key characteristics that have significant impacts on the behavior patterns. Last, the study defines intersectional groups using these identified key characteristics and gender and examines whether each group tends to have a unique set of behavior patterns. To demonstrate the methods, this study uses the travel survey data collected in Minnesota as a study case. The SAM results reveal that the behavior patterns on weekdays and weekends are different, and the CHAID analysis also identifies different key characteristics for weekdays and weekends. Moreover, we find several gender gaps that have rarely been addressed in the literature, such as women tending to lose their after-work personal time after having kids. These findings prove that our approach can derive intersectional groups directly from the data and provide novel insights into gender gaps in travel and activity participation in the context of everyday life.
 
 tags: []
 
@@ -39,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1016/j.tbs.2024.100797'
 url_code: ''
 url_dataset: ''
 url_poster: ''

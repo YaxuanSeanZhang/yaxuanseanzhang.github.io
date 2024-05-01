@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Quantitative Data Researcher
+        - title: Transportation Data Researcher
           company: University of Minnesota
           company_url: ''
           company_logo: UMN
@@ -31,10 +31,10 @@ sections:
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
-              * Led a data collection process from over 1000 users.
-              * Applied data mining and statistical models to study gender mobility discrepancies.
-              * Designed a new explainable AI algorithm to model health disparities in mobility.
-              * Delivered a recommendation to stakeholder (MnDOT) for policy-making decisions.
+              * Led a data collection process, designing surveys and collecting GPS travel data from 1000+ participants.
+              * Applied data mining and statistical models to study gender discrepancies in mobility patterns to promote social equity.
+              * Designed an interpretable Machine Learning algorithm to model health disparities related to mobility behaviors.
+              * Delivered a recommendation report to external stakeholders (MnDOT) to inform policy-making decisions.
 
         - title: Transportation Data Science Intern
           company: Metropolitan Council
@@ -44,9 +44,9 @@ sections:
           date_start: '2023-05-31'
           date_end: '2023-08-25'
           description: |2-
-              * Designed a SQL pipeline to fetch and process real-time traffic data into an interactive web map dashboard.
+              * Designed an ETL pipeline to fetch, clean, and process real-time traffic data into a web dynamic map dashboard.
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
-              * Conducted transit data QAQC and visualization and delivered insights to stakeholders.
+              * Conducted QAQC, exploratory analysis, and visualization for transit data and delivered insights to internal stakeholders.
         
         - title: Mobility Data Analyst
           company: University of Minnesota
@@ -56,7 +56,7 @@ sections:
           date_start: '2020-06-01'
           date_end: '2022-05-31'
           description: |2-
-              * Proposed a data-driven framework to address spatial-temporal quality issues in GPS mobility data.
+              * Designed a data-driven framework to solve spatiotemporal quality issues in GPS mobility data, improving 25% accuracy.
               * Adopted ML and trajectory analysis to identify human travel behaviors and measure person-based accessibility space.
               * Created an R pipeline for GPS travel surveys, including data cleaning, mobility pattern analysis, and visualization.
  
@@ -106,8 +106,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Mobility
-          tag: Mobility
+        - name: Transportation
+          tag: Transportation
         - name: ML Stats 
           tag: ML Stats
         - name: Data Pipeline
