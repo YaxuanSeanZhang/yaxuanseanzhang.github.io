@@ -25,7 +25,7 @@ bio: My research interests include geospatial data science, transportation plann
 
 # Interests to show in About widget
 interests:
-  - Transportation Analysis & Planning
+  - Transportation Planning
   - Geospatial Data Science
   - Statistics & ML
 
