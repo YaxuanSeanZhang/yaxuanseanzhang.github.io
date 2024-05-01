@@ -48,7 +48,7 @@ sections:
               * Implemented a Generalized Additive Model (GAM) for traffic volume forecasting.
               * Conducted QAQC, exploratory analysis, and visualization for transit data and delivered insights to internal stakeholders.
         
-        - title: Mobility Data Analyst
+        - title: Transportation Data Analyst
           company: University of Minnesota
           company_url: ''
           company_logo: UMN
@@ -107,7 +107,7 @@ sections:
         - name: All
           tag: '*'
         - name: Transportation
-          tag: Transportation
+          tag: Mobility
         - name: ML Stats 
           tag: ML Stats
         - name: Data Pipeline
